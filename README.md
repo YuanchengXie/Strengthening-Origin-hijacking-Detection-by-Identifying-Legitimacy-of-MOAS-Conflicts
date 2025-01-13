@@ -1,2 +1,2 @@
-# An-origin-hijacking-detection-model-integrating-dynamic-static-mixed-features
-This project is a supplementary file for the paper ‘An origin hijacking detection model integrating dynamic-static mixed features’, mainly  including main code, and experimental data.
+# Strengthening Origin-hijacking Detection by Identifying Legitimacy of MOAS Conflicts
+This project is a supplementary file for the paper ‘Strengthening Origin-hijacking Detection by Identifying Legitimacy of MOAS Conflicts’, mainly  including main code, and experimental data.
